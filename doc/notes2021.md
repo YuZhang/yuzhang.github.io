@@ -1,0 +1,3 @@
+- RDMA: 今天看到郭大神的一篇SIGCOMM论文是RDMA over commodity ethernet at scale, 但自己对RDMA这项技术并不了解。因为NDN在高性能网络/计算中可能有潜在应用，于是简单了解了一下RDMA.
+  - RDMA是remote direct memory access(远程直接内存访问)的缩写，是指一台机器直接访问另一台机器的内存，但不需要任何一台机器的操作系统的参与。RDMA可以提供高吞吐量和低时延的网络互联能力，在大规模并行计算集群中特别有用。
+  - RDMA可以认为是一种零拷贝的实例。
