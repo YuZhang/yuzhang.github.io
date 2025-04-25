@@ -1,4 +1,4 @@
-I am an associate professor in computer science at Harbin Institute of Technology. My research interests include Internet Topology Measurement, Named Data Networking, and Critical Internet Infrastructure.
+I am a professor in computer science at Harbin Institute of Technology. My research interests include Internet Topology Measurement, Named Data Networking, and Critical Internet Infrastructure.
 
 Publications on [my Google scholar pages](https://scholar.google.com/citations?user=LGxVOfAAAAAJ&hl=en)
 
